@@ -5,4 +5,3 @@ uses python
 download import openai moviepy pexelapi and assemblyai api
 enjoy
 
-jhkhsxkvsdhvtuyuyvyuvy
